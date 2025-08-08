@@ -1,6 +1,6 @@
-![Banner](https://link-to-your-banner-image)
 
-# 👋 Hi, I'm Your Name
+
+# 👋 Hi, I'm Ronad
 ## 💻 MERN Stack Developer
 
 ### 🔹 About Me
@@ -17,7 +17,7 @@ I'm a web developer passionate about building full-stack web apps using modern t
 **Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?logo=git) ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase)
 
 ### 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/yourname)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin)]([https://linkedin.com/in/yourname](https://www.linkedin.com/in/rafiulronad/))  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)](https://github.com/yourusername)
 
 ### 📊 GitHub Stats
