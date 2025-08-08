@@ -1,6 +1,6 @@
-![Banner](https://your-banner-link-here.com/banner.png) <!-- Replace with your real banner image URL -->
+![Banner](https://i.ibb.co.com/7tbr5rS0/White-and-Black-Simple-Marketing-Linked-In-Banner.png) <!-- Replace with your real banner image URL -->
 
-# 👋 Hi, I'm Rafiul Ronad
+# 👋 Hi, I'm Ronad
 ## 💻 MERN Stack Developer | Frontend Enthusiast | Firebase Specialist
 
 I'm a passionate and self-motivated web developer focused on building responsive and dynamic full-stack applications using modern technologies. I enjoy learning new tools, solving real-world problems, and turning ideas into functional products.
