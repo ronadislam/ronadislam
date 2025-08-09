@@ -1,4 +1,4 @@
-![Banner]([https://i.ibb.co.com/7tbr5rS0/White-and-Black-Simple-Marketing-Linked-In-Banner.png](https://ibb.co.com/20Qnbvfv)) <!-- Replace with your real banner image URL -->
+![Banner](https://i.ibb.co.com/PsQW2NgY/Black-and-Teal-Modern-Web-Developer-Presentation.png) <!-- Replace with your real banner image URL -->
 
 # 👋 Hi, I'm Ronad
 ## 💻 MERN Stack Developer | Frontend Enthusiast | Firebase Specialist
